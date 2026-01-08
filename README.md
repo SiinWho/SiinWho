@@ -70,17 +70,6 @@ I'm a self-taught developer who enjoys exploring different areas of IT. I like w
 
 ### 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/SiinWho/mtc-isims-website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SiinWho&repo=mtc-isims-website&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
-<a href="https://github.com/SiinWho/dx-hackathon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SiinWho&repo=dx-hackathon&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
-</div>
 
 #### 💼 MTC-ISIMS Website
 **Role:** Full-Stack Web Developer  
@@ -102,19 +91,11 @@ Developed a mobile app focused on patient appointment management. The app simpli
 ### 📊 GitHub Stats
 
 <div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SiinWho&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=ffffff" alt="GitHub Stats" />
-  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SiinWho&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" alt="GitHub Streak" />
-  
-</div>
 
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiinWho&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=ffffff" alt="Top Languages" />
-  
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=SiinWho&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=ffffff" alt="Contribution Graph" />
-  
+![](https://github-readme-stats.vercel.app/api?username=SiinWho&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SiinWho&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SiinWho&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 </div>
 
 ---
@@ -143,7 +124,7 @@ Developed a mobile app focused on patient appointment management. The app simpli
 
 <div align="center">
   
-  ![](https://komarev.com/ghpvc/?username=SiinWho&color=2E9EF7&style=for-the-badge)
+  [![](https://visitcount.itsvg.in/api?id=SiinWho&icon=0&color=0)](https://visitcount.itsvg.in)
   
 </div>
 
