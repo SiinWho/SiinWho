@@ -118,7 +118,6 @@ Developed a mobile app focused on patient appointment management. The app simpli
   
   **📍 Location:** Sfax, Tunisia  
   **📧 Email:** med.yassine.ghorbel@gmail.com  
-  **📱 Phone:** +216 28 214 744
   
 </div>
 
