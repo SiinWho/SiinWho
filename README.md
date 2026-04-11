@@ -114,10 +114,7 @@ I'm a self-taught developer who enjoys exploring different corners of IT. JavaSc
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SiinWho&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiinWho&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
-
-<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=SiinWho&theme=github_dark&hide_border=true" />
+![GitHub Stats](https://streak-stats.demolab.com?user=SiinWho&theme=dark&hide_border=true)
 
 </div>
 
