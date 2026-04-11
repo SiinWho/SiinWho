@@ -1,136 +1,155 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Mohamed+Yassine+Ghorbel+%F0%9F%91%8B;Full-Stack+Developer;Computer+Science+Student;Problem+Solver+%26+Fast+Learner" alt="Typing SVG" />
+
+```
+███╗   ███╗███████╗██████╗     ██╗   ██╗ █████╗ ███████╗███████╗██╗███╗   ██╗███████╗
+████╗ ████║██╔════╝██╔══██╗    ╚██╗ ██╔╝██╔══██╗██╔════╝██╔════╝██║████╗  ██║██╔════╝
+██╔████╔██║█████╗  ██║  ██║     ╚████╔╝ ███████║███████╗███████╗██║██╔██╗ ██║█████╗  
+██║╚██╔╝██║██╔══╝  ██║  ██║      ╚██╔╝  ██╔══██║╚════██║╚════██║██║██║╚██╗██║██╔══╝  
+██║ ╚═╝ ██║███████╗██████╔╝       ██║   ██║  ██║███████║███████║██║██║ ╚████║███████╗
+╚═╝     ╚═╝╚══════╝╚═════╝        ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+```
+
 </div>
 
 <div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ghorbel.netlify.app)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/med-yassine-ghorbel)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:med.yassine.ghorbel@gmail.com)
-  
+
+# Med Yassine Ghorbel
+
+**Full-Stack Developer** · Computer Science Student @ ISIMS · Software & Web Manager @ Microsoft Tech Club ISIMS
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ghorbel.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/med-yassine-ghorbel)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:med.yassine.ghorbel@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SiinWho)
+
+![Profile Views](https://komarev.com/ghpvc/?username=SiinWho&style=flat-square&color=6e40c9&label=profile+views)
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## `$ whoami`
 
 ```javascript
 const myself = {
-  name: 'Med Yassine Ghorbel',
-  location: 'Sfax, Tunisia 🇹🇳',
-  education: 'Bachelor in Computer Science @ ISIMS',
-  role: 'Software & Web Development Manager @ Microsoft Tech Club',
-  skills: ['Next.js', 'React', 'JavaScript', 'Python', 'Java', 'C'],
-  interests: ['Web Development', 'Big Data', 'Data Analysis'],
-  hardWorker: true,
-  fastLearner: true,
-  problemSolver: true,
-  
-  hireable: function() {
-    return (
-      this.hardWorker &&
-      this.problemSolver &&
-      this.fastLearner
-    );
-  }
+  name:        "Med Yassine Ghorbel",
+  location:    "Sfax, Tunisia 🇹🇳",
+  education:   "BSc Computer Science @ ISIMS",
+  role:        "Software & Web Development Manager @ Microsoft Tech Club ISIMS",
+  focus:       ["Web Development", "Big Data", "Data Analysis"],
+  stack:       ["Next.js", "React", "JavaScript", "Python", "Java", "C"],
+
+  traits: {
+    hardWorker:    true,
+    fastLearner:   true,
+    problemSolver: true,
+  },
+
+  currentlyWorking: "Building digital infrastructure for MTC ISIMS",
+  openTo: "Web development roles and collaborative IT projects",
+
+  hireable: () => Object.values(this.traits).every(Boolean),
 };
 ```
 
-I'm a self-taught developer who enjoys exploring different areas of IT. I like working on web apps, and JavaScript is my main tool for building clear and functional projects. I try new technologies often because I like seeing how systems connect. I keep improving my problem-solving skills through real work.
+I'm a self-taught developer who enjoys exploring different corners of IT. JavaScript is my main tool for building clear and functional web apps, and I make a habit of learning new technologies — I like seeing how systems connect. I continuously sharpen my problem-solving skills through real, shipped projects.
 
 ---
 
-### 🛠️ Tech Stack
+## `$ ls tech-stack/`
+
+### Frontend
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Backend & Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+---
+
+## `$ cat projects.json`
+
+```json
+[
+  {
+    "id": "01",
+    "name": "MTC-ISIMS Website",
+    "type": "Full-Stack",
+    "description": "Digital hub for MTC ISIMS — our university's tech club. Systems for member management, event organization, and student collaboration.",
+    "stack": ["Next.js", "Tailwind CSS", "MongoDB"],
+    "role": "Full-Stack Web Developer",
+    "status": "shipped"
+  },
+  {
+    "id": "02",
+    "name": "DX Hackathon Website",
+    "type": "Frontend",
+    "description": "Interactive platform for the DX Hackathon. Responsive, accessible, and visually consistent participant experience from registration to results.",
+    "stack": ["Next.js", "Tailwind CSS", "HTML"],
+    "role": "Front-End Web Developer",
+    "status": "shipped"
+  },
+  {
+    "id": "03",
+    "name": "Tbibi Mobile App",
+    "type": "Mobile",
+    "description": "Patient appointment management app — simplifies scheduling for healthcare providers and offers intuitive booking flows for patients.",
+    "stack": ["Windev Mobile"],
+    "role": "Mobile Developer",
+    "status": "shipped"
+  }
+]
+```
+
+---
+
+## `$ git stats`
 
 <div align="center">
 
-#### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=SiinWho&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiinWho&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
 
-#### Backend & Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-#### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=SiinWho&theme=github_dark&hide_border=true" />
 
 </div>
 
 ---
 
-### 🚀 Featured Projects
-
-
-#### 💼 MTC-ISIMS Website
-**Role:** Full-Stack Web Developer  
-**Tech:** Next.js • Tailwind CSS • MongoDB  
-Developed the digital hub for MTC ISIMS, our university's technology club. Created systems for member management, event organization, and communication to help students connect and collaborate more easily.
-
-#### 🎯 DX Hackathon Website
-**Role:** Front-End Web Developer  
-**Tech:** Next.js • Tailwind CSS • HTML  
-Created an interactive platform for the DX Hackathon to enhance participant engagement. Built a responsive, accessible, and visually consistent interface using Next.js and Tailwind CSS.
-
-#### 📱 Tbibi Mobile App
-**Role:** Mobile Developer  
-**Tech:** Windev Mobile  
-Developed a mobile app focused on patient appointment management. The app simplifies scheduling for healthcare providers and offers intuitive booking for patients.
-
----
-
-### 📊 GitHub Stats
+## `$ ping ghorbel`
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=SiinWho&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SiinWho&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SiinWho&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+| Field | Value |
+|---|---|
+| 📍 Location | Sfax, Tunisia |
+| 📧 Email | med.yassine.ghorbel@gmail.com |
+| 🌐 Portfolio | [ghorbel.netlify.app](https://ghorbel.netlify.app) |
+| 💼 LinkedIn | [med-yassine-ghorbel](https://linkedin.com/in/med-yassine-ghorbel) |
+| 🟢 Status | Open to opportunities |
 
 </div>
 
 ---
 
 <div align="center">
-  
-### 💬 Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+*"Building real projects and improving code quality, one commit at a time."*
 
-</div>
-
----
-
-<div align="center">
-  
-  ### 📫 Let's Connect
-  
-  I'm open to opportunities in web development and other IT fields where I can grow and learn more.
-  
-  **📍 Location:** Sfax, Tunisia  
-  **📧 Email:** med.yassine.ghorbel@gmail.com  
-  
-</div>
-
-<div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=SiinWho&icon=0&color=0)](https://visitcount.itsvg.in)
-  
-</div>
-
----
-
-<div align="center">
-  
-  **💡 "Building real projects and improving code quality, one commit at a time."**
-  
 </div>
